@@ -45,5 +45,7 @@ class RectView(context: Context,attributeSet: AttributeSet): View(context,attrib
 
 ・[基本図形の描画](https://github.com/tomoya-hiraiwa/android_origin_view/blob/main/text/simpleShape.md)
 
+・[基本図形プログラムファイル](https://github.com/tomoya-hiraiwa/android_origin_view/blob/main/CreateView)
+
 
 

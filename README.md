@@ -43,7 +43,7 @@ class RectView(context: Context,attributeSet: AttributeSet): View(context,attrib
 ```
 ### 詳細（順次追加）
 
-
+・[基本図形の描画](https://github.com/tomoya-hiraiwa/android_origin_view/blob/main/text/simpleShape.md)
 
 
 

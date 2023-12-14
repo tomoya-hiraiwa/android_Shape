@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <edu.wsc2022.a01.createview.RectView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
+<edu.wsc2022.a01.createview.CircleView
+    android:layout_width="match_parent"
+    android:layout_height="100dp"/>
+    <edu.wsc2022.a01.createview.OvalView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+    <edu.wsc2022.a01.createview.ArcView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"/>
+</LinearLayout>
